@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MVVM with DataBinding</string>
+    <string name="get_movie_name">Get Movie Name</string>
+</resources>
